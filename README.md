@@ -31,7 +31,7 @@ Además, **comparto técnicas, estrategias y herramientas para optimizar proceso
 
 ## 📹 Vídeos de mi [Youtube](https://i3.ytimg.com/vi/bqfh7ZcIQGc/hqdefault.jpg)[Youtube](https://www.youtube.com/channel/UC82x8UiTbDUDMthxMWJfMHQ?sub_confirmation=1) !
 <a href='https://youtu.be/watch?v=bqfh7ZcIQGc' title="Dashboard básico en Excel - ver en Youtube" rel="noopener noreferrer" target="_blank">
-  <img width='32%'  src='[https://i3.ytimg.com/vi_webp/bqfh7ZcIQGc/mqdefault.webp?v=62c8ad18&sqp=CKD3opYG&rs=AOn4CLD8cT3H6tvQpRrOmr7FENk6rIcwxw](https://i.ytimg.com/vi/bqfh7ZcIQGc/hqdefault.jpg)' alt='Dashboard básico en excel' />
+  <img width='32%'  src='[[https://i3.ytimg.com/vi_webp/bqfh7ZcIQGc/mqdefault.webp?v=62c8ad18&sqp=CKD3opYG&rs=AOn4CLD8cT3H6tvQpRrOmr7FENk6rIcwxw](https://i9.ytimg.com/vi_webp/bqfh7ZcIQGc/sddefault.webp?v=631e5a09&sqp=COC0-ZgG&rs=AOn4CLDvsXYOsiXEmLCxBE25ti2Rmb6FmQ)]([https://i.ytimg.com/vi/bqfh7ZcIQGc/hqdefault.jpg](https://i9.ytimg.com/vi_webp/bqfh7ZcIQGc/sddefault.webp?v=631e5a09&sqp=COC0-ZgG&rs=AOn4CLDvsXYOsiXEmLCxBE25ti2Rmb6FmQ))' alt='Dashboard básico en excel' />
 </a>
 <a href='https://youtu.be/watch?=ecgEcDw0XAQ' title="Funciones matriciales en Excel - ver en Youtube" rel="noopener noreferrer" target="_blank">
   <img width='32%'  src='https://img.youtube.com/vi/ecgEcDw0XAQ' alt='Funciones matriciales en Excel' />
