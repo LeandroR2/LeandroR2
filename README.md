@@ -1,5 +1,5 @@
 
-<https://github.com/LeandroR2/ecoscisteam/blob/main/images/pc-workstation.jpg" alt="Perfil Profesional Luis leandro Rojas Rojas">
+<img src="https://github.com/LeandroR2/ecoscisteam/blob/main/images/pc-workstation.jpg" alt="Perfil Profesional Luis leandro Rojas Rojas">
 
 <p align="center">
     <a href="https://www.youtube.com/channel/UC82x8UiTbDUDMthxMWJfMHQ?sub_confirmation=1" rel="noopener noreferrer" target="_blank" style="margin: 0 20px;">
