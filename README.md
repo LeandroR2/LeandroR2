@@ -1,5 +1,5 @@
 
-[![Header](https://media-exp2.licdn.com/dms/image/C4E16AQEPefdY_nZkZw/profile-displaybackgroundimage-shrink_200_800/0/1653864669182?e=1662595200&v=beta&t=REZeL9m9A7BiVfJ-MOjkSmVf73dLXesQqlQKWoUe1l4 "Header")](https://www.youtube.com/channel/UC82x8UiTbDUDMthxMWJfMHQ?sub_confirmation=1)
+<https://github.com/LeandroR2/ecoscisteam/blob/main/images/pc-workstation.jpg" alt="Perfil Profesional Luis leandro Rojas Rojas">
 
 <p align="center">
     <a href="https://www.youtube.com/channel/UC82x8UiTbDUDMthxMWJfMHQ?sub_confirmation=1" rel="noopener noreferrer" target="_blank" style="margin: 0 20px;">
