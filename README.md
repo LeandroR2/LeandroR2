@@ -31,13 +31,13 @@ Además, **comparto técnicas, estrategias y herramientas para optimizar proceso
 
 ## 📹 Vídeos de mi [Youtube](https://i3.ytimg.com/vi/bqfh7ZcIQGc/hqdefault.jpg)[Youtube](https://www.youtube.com/channel/UC82x8UiTbDUDMthxMWJfMHQ?sub_confirmation=1) !
 <a href='https://youtu.be/watch?v=bqfh7ZcIQGc' title="Dashboard básico en Excel - ver en Youtube" rel="noopener noreferrer" target="_blank">
-  <img width='32%'  src='[[https://i3.ytimg.com/vi_webp/bqfh7ZcIQGc/mqdefault.webp?v=62c8ad18&sqp=CKD3opYG&rs=AOn4CLD8cT3H6tvQpRrOmr7FENk6rIcwxw](https://i9.ytimg.com/vi_webp/bqfh7ZcIQGc/sddefault.webp?v=631e5a09&sqp=COC0-ZgG&rs=AOn4CLDvsXYOsiXEmLCxBE25ti2Rmb6FmQ)]([https://i.ytimg.com/vi/bqfh7ZcIQGc/hqdefault.jpg](https://i9.ytimg.com/vi_webp/bqfh7ZcIQGc/sddefault.webp?v=631e5a09&sqp=COC0-ZgG&rs=AOn4CLDvsXYOsiXEmLCxBE25ti2Rmb6FmQ))' alt='Dashboard básico en excel' />
+  <img width='32%'  src='https://raw.githubusercontent.com/LeandroR2/LeandroR2/1dbd996d243ea93edf120c9d885be0aa2d39906f/imagenes_enlace/Clipboard02.png' alt='Dashboard básico en excel' />
 </a>
 <a href='https://youtu.be/watch?=ecgEcDw0XAQ' title="Funciones matriciales en Excel - ver en Youtube" rel="noopener noreferrer" target="_blank">
-  <img width='32%'  src='https://img.youtube.com/vi/ecgEcDw0XAQ' alt='Funciones matriciales en Excel' />
+  <img width='32%'  src='https://raw.githubusercontent.com/LeandroR2/LeandroR2/1dbd996d243ea93edf120c9d885be0aa2d39906f/imagenes_enlace/Clipboard01.png' alt='Funciones matriciales en Excel' />
 </a>
 <a href='https://youtu.be/watch?=SPzX0LkdFRk' title="Ejercicios fórmulas básicas en excel - ver en Youtube" rel="noopener noreferrer" target="_blank">
-  <img width='32%' src='https://img.youtube.com/vi/SPzX0LkdFRk' alt='Ejercicios fórmulas básicas en excel' />
+  <img width='32%' src='https://raw.githubusercontent.com/LeandroR2/LeandroR2/1dbd996d243ea93edf120c9d885be0aa2d39906f/imagenes_enlace/Clipboard03.png' alt='Ejercicios fórmulas básicas en excel' />
 </a>
 
 #### ▶️ Contáctame rluisleandro@gmail.com
