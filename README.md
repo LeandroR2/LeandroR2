@@ -17,9 +17,6 @@
     <a href="https://www.tiktok.com/@rluisleandro" rel="noopener noreferrer" target="_blank" style="margin: 0 20px;">
       <img align="center" src="https://simpleicons.org/icons/tiktok.svg" alt="Tiktok - Luis Leandro Rojas Rojas" height="28px" width="28px" />
     </a>
-    <a href="https://www.linkedin.com/in/econ-luis-leandro-rojas-rojas/" rel="noopener noreferrer" target="_blank" style="margin: 0 20px;">
-      <img align="center" src="https://simpleicons.org/icons/linkedin.svg" alt="Linkedin - Luis Leandro Rojas Rojas" height="28px" width="28px" />
-    </a>
 </p>
 
 
