@@ -35,15 +35,5 @@ My ultimate goal is to leverage my professional experience to assist companies i
 <!-- Además, **comparto técnicas, estrategias y herramientas para optimizar procesos en el análisis de datos que permitan aumentar la rentabilidad en los negocios a través de vídeos en [Youtube](https://www.youtube.com/channel/UC82x8UiTbDUDMthxMWJfMHQ?sub_confirmation=1)** y **trucos rápidos en [TikTok](https://www.tiktok.com/@rluisleandro)**-->
 
 
-## 📹 Videos [Youtube](https://www.youtube.com/channel/UC82x8UiTbDUDMthxMWJfMHQ?sub_confirmation=1) !
-<a href='https://youtu.be/watch?v=bqfh7ZcIQGc' title="Dashboard básico en Excel - ver en Youtube" rel="noopener noreferrer" target="_blank">
-  <img width='32%'  src='https://raw.githubusercontent.com/LeandroR2/LeandroR2/1dbd996d243ea93edf120c9d885be0aa2d39906f/imagenes_enlace/Clipboard02.png' alt='Dashboard básico en excel' />
-</a>
-<a href='https://youtu.be/watch?=ecgEcDw0XAQ' title="Funciones matriciales en Excel - ver en Youtube" rel="noopener noreferrer" target="_blank">
-  <img width='32%'  src='https://raw.githubusercontent.com/LeandroR2/LeandroR2/1dbd996d243ea93edf120c9d885be0aa2d39906f/imagenes_enlace/Clipboard01.png' alt='Funciones matriciales en Excel' />
-</a>
-<a href='https://youtu.be/watch?=SPzX0LkdFRk' title="Ejercicios fórmulas básicas en excel - ver en Youtube" rel="noopener noreferrer" target="_blank">
-  <img width='32%' src='https://raw.githubusercontent.com/LeandroR2/LeandroR2/1dbd996d243ea93edf120c9d885be0aa2d39906f/imagenes_enlace/Clipboard03.png' alt='Ejercicios fórmulas básicas en excel' />
-</a>
 
 #### ▶️ Contact me rluisleandro@gmail.com
